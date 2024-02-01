@@ -16,7 +16,7 @@ const oksana = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Vue.js, SASS, Bulma, Bootstrap],
   architecture: ["Single page applications", "Responsive web design", "Performance optimization"],
-  currentFocus: "Angular",
+  currentGoal: "Angular",
 }
 ```
 
