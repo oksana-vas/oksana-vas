@@ -1,6 +1,6 @@
 ## ✨ Hi, I'm Oksana Vasyliuk <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IxbmJ4azlhMmU5M2M1eHgwNTFvbm10b2U3ODV5dXc2aXZwY2ZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="80">
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkaXVpaHVwYWZzczZhbWZqcWc2aWRxcTY4ZmlrNjNud2V1YXFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width=210>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkaXVpaHVwYWZzczZhbWZqcWc2aWRxcTY4ZmlrNjNud2V1YXFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width=200>
 
 ### 👩🏻‍💻 Frontend Developer | React Coder
 
