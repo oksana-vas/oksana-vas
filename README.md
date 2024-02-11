@@ -16,7 +16,8 @@ const oksana = {
   code: {
     languages: ["Javascript", "Typescript", "HTML", "CSS"],
     frameworks: ["React", "Vue.js"],
-    tools: ["Redux", "Lodash", "Bootstrap", "SASS", "Bulma"],
+    design: ["Figma", "Photoshop"],
+    otherTools: ["Git/GitHub", "Redux", "Lodash", "Bootstrap", "SASS", "Bulma"],
   },
   architecture: ["Single page applications", "Responsive web design", "Performance optimization"],
   currentGoal: "Angular",
