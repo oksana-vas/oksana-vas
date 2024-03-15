@@ -17,10 +17,10 @@ const oksana = {
     languages: ["Javascript", "Typescript", "HTML", "CSS"],
     frameworks: ["React", "Vue.js"],
     design: ["Figma", "Photoshop"],
-    otherTools: ["Git/GitHub", "Redux", "Lodash", "Bootstrap", "SASS", "Bulma"],
+    otherTools: ["Git/GitHub", "Redux", "Lodash", "Bootstrap", "SASS/SCSS", "Bulma"],
   },
   architecture: ["Single page applications", "Responsive web design", "Performance optimization"],
-  currentGoal: "Angular",
+  currentGoal: "Next.js",
   addictions: "chocolate" && "coffee",
 };
 ```
