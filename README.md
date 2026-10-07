@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkaXVpaHVwYWZzczZhbWZqcWc2aWRxcTY4ZmlrNjNud2V1YXFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width=200>
 
-### 👩🏻‍💻 Frontend Developer | React Coder
+### 👩🏻‍💻 Software Developer | Automation • Chrome Extensions • Web Development
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oksana-vasyliuk-dev/)](https://www.linkedin.com/in/oksana-vasyliuk-dev/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/oksana-vasyliuk-dev/)](http://t.me/oksana_vasyliuk)
@@ -12,16 +12,61 @@
 
 ```javascript
 const oksana = {
-  pronouns: "she" || "her",
+  pronouns: "she/her",
+
   code: {
-    languages: ["Javascript", "Typescript", "HTML", "CSS"],
-    frameworks: ["React", "Vue.js"],
-    design: ["Figma", "Photoshop"],
-    otherTools: ["Git/GitHub", "Redux", "Lodash", "Bootstrap", "SASS/SCSS", "Bulma"],
+    languages: [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "HTML",
+      "CSS",
+    ],
+
+    frameworks: [
+      "React",
+      "Vue.js",
+      "Material UI",
+    ],
+
+    browserDevelopment: [
+      "Chrome Extensions",
+      "Chrome APIs",
+      "Chrome DevTools",
+      "Service Workers",
+      "Content Scripts",
+    ],
+
+    automation: [
+      "Python Automation",
+      "UiPath",
+      "n8n",
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Vite",
+      "Redux",
+      "REST APIs",
+      "Figma",
+    ],
   },
-  architecture: ["Single page applications", "Responsive web design", "Performance optimization"],
-  currentGoal: "Next.js",
-  addictions: "chocolate" && "coffee",
+
+  interests: [
+    "Developer Tools",
+    "Browser Extensions",
+    "Workflow Automation",
+    "AI Agents",
+  ],
+
+  currentlyLearning: [
+    "AI Agents",
+    "Agentic Workflows",
+    "n8n",
+  ],
+
+  addictions: ["chocolate", "coffee"],
 };
 ```
 ### <img src="https://media.giphy.com/media/1TCfkQ0NN2XyZm4hye/giphy.gif" width="50"> My stats
